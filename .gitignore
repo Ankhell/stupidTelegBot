@@ -1,0 +1,19 @@
+# Default ignored files
+/shelf/
+/workspace.xml
+# Datasource local storage ignored files
+/dataSources/
+/dataSources.local.xml
+# Editor-based HTTP Client requests
+/httpRequests/
+
+target/
+.env
+.idea/
+*.iml
+.classpath
+.project
+.settings/
+docs/tmp/
+docs/java-getting-started/
+docs/deploying-spring-boot-apps/
